@@ -33,7 +33,7 @@ const NavBar = () => {
           alt=""
           width={36}
           height={36}
-          className="rounded-full"
+          className="rounded-full cursor-pointer"
         />
       </div>
     </div>
